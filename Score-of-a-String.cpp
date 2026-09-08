@@ -6,6 +6,7 @@ public:
             score += abs(s[i] - s[i+1]);
         }
         return score;
+// test commit
         
     }
 };
